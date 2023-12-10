@@ -1,0 +1,15 @@
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\bin\Debug\net6.0\Advent_Of_Code_Day8.exe
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\bin\Debug\net6.0\Advent_Of_Code_Day8.deps.json
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\bin\Debug\net6.0\Advent_Of_Code_Day8.runtimeconfig.json
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\bin\Debug\net6.0\Advent_Of_Code_Day8.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\bin\Debug\net6.0\Advent_Of_Code_Day8.pdb
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.csproj.AssemblyReference.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.AssemblyInfoInputs.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.AssemblyInfo.cs
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.csproj.CoreCompileInputs.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\refint\Advent_Of_Code_Day8.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.pdb
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\Advent_Of_Code_Day8.genruntimeconfig.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent of Code Day8\Advent_Of_Code_Day8\Advent_Of_Code_Day8\obj\Debug\net6.0\ref\Advent_Of_Code_Day8.dll
