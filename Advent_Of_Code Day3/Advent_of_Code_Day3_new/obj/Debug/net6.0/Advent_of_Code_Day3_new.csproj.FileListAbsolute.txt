@@ -1,0 +1,15 @@
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\bin\Debug\net6.0\Advent_of_Code_Day3_new.exe
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\bin\Debug\net6.0\Advent_of_Code_Day3_new.deps.json
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\bin\Debug\net6.0\Advent_of_Code_Day3_new.runtimeconfig.json
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\bin\Debug\net6.0\Advent_of_Code_Day3_new.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\bin\Debug\net6.0\Advent_of_Code_Day3_new.pdb
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.csproj.AssemblyReference.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.AssemblyInfoInputs.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.AssemblyInfo.cs
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.csproj.CoreCompileInputs.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\refint\Advent_of_Code_Day3_new.dll
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.pdb
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\Advent_of_Code_Day3_new.genruntimeconfig.cache
+C:\Users\RyanZ\Desktop\Advent of Code\Advent_of_Code_Day3_new\Advent_of_Code_Day3_new\obj\Debug\net6.0\ref\Advent_of_Code_Day3_new.dll
